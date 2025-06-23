@@ -16,5 +16,4 @@ Advanced Queries
 1. Calculate the moving average of order values for each customer over their order history.
 2. Calculate the cumulative sales per month for each year.
 3. Calculate the year-over-year growth rate of total sales.
-4. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
-5. Identify the top 3 customers who spent the most money in each year.
+4. Identify the top 3 customers who spent the most money in each year.
