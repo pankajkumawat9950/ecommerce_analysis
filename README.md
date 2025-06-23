@@ -8,13 +8,6 @@ This project presents a complete data analysis workflow for an e-commerce platfo
 
 ```bash
 ecommerce-sales-analysis/
-├── customers.csv
-├── geolocation.csv
-├── order_items.csv
-├── orders.csv
-├── payments.csv
-├── products.csv
-├── sellers.csv
 ├── py_sql.ipynb          # SQL-based analysis
 ├── py_analysis.ipynb     # Python (pandas) data exploration and visuals
 ├── Question.txt          # Business questions answered
