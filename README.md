@@ -8,8 +8,8 @@ This project presents a complete data analysis workflow for an e-commerce platfo
 
 ```bash
 ecommerce_analysis/
-├── upload_data_in_sql.ipynb          # SQL-based analysis
-├── python_sql_analysis.ipynb     # Python (pandas) data exploration and visuals
-├── Question.txt          # Business questions answered
-├── requirements.txt
+├── upload_data_in_sql.ipynb      # Upload csv files into database
+├── python_sql_analysis.ipynb     # Python (pandas,seaborn,numpy) data exploration and visuals
+├── Question.txt                  # Business questions answered
+├── requirements.txt              # Requirements for analysis
 └── README.md
