@@ -12,4 +12,5 @@ ecommerce_analysis/
 ├── python_sql_analysis.ipynb     # Python (pandas,seaborn,numpy) data exploration and visuals
 ├── Question.txt                  # Business questions
 ├── requirements.txt              # Requirements for analysis
+├── DataSet_link.text
 └── README.md
