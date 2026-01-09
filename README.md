@@ -28,3 +28,13 @@ This project analyzes ecommerce sales data to extract insights and trends using 
 1. Clone the repository  
 2. Launch the Jupyter Notebook file  
 3. Install required packages:  
+4. Follow through the cells to reproduce the analysis  
+5. Open the Power BI file to explore visual dashboards and reports
+
+## 📌 Key Outcomes
+- Cleaned and transformed raw ecommerce data for analysis  
+- Identified top products, customer trends, and sales performance  
+- Built dashboards to visualize sales KPIs and business insights
+
+## 📬 Contact
+Connect with me on LinkedIn:  https://www.linkedin.com/in/pankajkumawat9950/
